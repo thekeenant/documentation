@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.6.2"
+gem "github-pages", "1.8.0"
 
 require 'json'
 require 'open-uri'
